@@ -1,2 +1,0 @@
-# UseStateHook
-Created with CodeSandbox
